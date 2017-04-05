@@ -12,9 +12,11 @@
 }
 #title1 {
 	background-color: #ff9600;
+	color: blue;
 }
 #title2 {
 	background-color: #00ffc6;
+	color: orange;
 }
 #title3 {
 	background-color: #72ff00;
