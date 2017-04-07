@@ -3,13 +3,23 @@ nav {
 	border-radius:0;
 	border:0;
 }
-#nav-list-data{
+#navbar{
+	background-color: lightgreen;
+}
+#list-container{
 	margin-top: 50px;
 }
-#nav-list-data li{
-	background-color: green;
-	font-size: 1.5em;
+#nav-list-data{
+	background: #c7ff99;
 }
-#nav-list-data li{
+#nav-list-data a{
+	font-size: 1.5em;
 	text-align: center;
+}
+#nav-list-data a:hover{
+	background: orange;
+}
+#article{
+	background-color: lightblue;
+	min-height: 1000px;
 }
